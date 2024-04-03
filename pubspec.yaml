@@ -1,7 +1,7 @@
 name: basic_keyboard_upper_view
 description: "upper keyboard view by june"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/basic_keyboard_upper_view
 
 version: 1.0.0+1
 
